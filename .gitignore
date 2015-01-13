@@ -16,3 +16,5 @@
 log
 mir-*
 _build
+Makefile
+main.ml
