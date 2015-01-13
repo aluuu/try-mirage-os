@@ -7,3 +7,12 @@
 *.cmx
 *.cmxs
 *.cmxa
+*.img
+*.xen
+*.native
+*.xml
+*.xe
+*.xl
+log
+mir-*
+_build
