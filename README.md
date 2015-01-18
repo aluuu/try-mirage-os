@@ -23,14 +23,11 @@ make run
 
 ### Xen
 
-Install AWS CLI tools
-```
-sudo pip install awscli
-```
+[Install AWS EC2 API tools](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)
 
 Build for xen
 ```
-mirage configure --unix
+mirage configure --xen
 make run
 ```
 
@@ -39,4 +36,4 @@ TODO: Create AMI and deploy it
 ## Resources
 
 * [Mirage](https://github.com/mirage/mirage)
-* [AWS CLI tools](http://aws.amazon.com/cli/)
+* [How to setup AWS EC2 API tools](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html)
