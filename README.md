@@ -31,7 +31,7 @@ mirage configure --xen
 make run
 ```
 
-TODO: Create AMI and deploy it
+TODO: [Create AMI and deploy it](http://www.openmirage.org/wiki/xen-boot)
 
 ## Resources
 
